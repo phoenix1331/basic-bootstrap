@@ -1,1 +1,1 @@
-# basic-botstrap
+# basic-bootstrap
